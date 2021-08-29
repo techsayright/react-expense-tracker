@@ -1,0 +1,10 @@
+.chart_main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: yellow;
+    width: 80vw;
+    height: 30vh;
+    margin-top: 10px;
+
+}

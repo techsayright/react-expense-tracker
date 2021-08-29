@@ -1,0 +1,47 @@
+.form-control {
+  background-color: aqua;
+  width: 80vw;
+  height: 30vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+input, #adding{
+  width: 500px;
+  height: 5vh;
+  font-size: x-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 10px;
+  border: none;
+  padding-left: 15px;
+}
+
+button{
+    width: 250px;
+    margin: 0 10px;
+    height: 5vh;
+    font-size: x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    border: none;
+    padding-left: 15px;
+
+}
+
+button {
+  background-color: #f38181;
+  color: white;
+  font-weight: 700;
+  border: none;
+  outline: none;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ffc7c7;
+  color: black;
+  border: 1px solid white;
+}

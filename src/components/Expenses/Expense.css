@@ -1,0 +1,14 @@
+
+
+.container{
+    min-height: 10vh ;
+    width: 90%;
+    background-color: cadetblue;
+    border: 1px solid red;
+    /* border-radius: 10px;
+    box-shadow: 5px 2px 2px gray; */
+    margin: 10px 0 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

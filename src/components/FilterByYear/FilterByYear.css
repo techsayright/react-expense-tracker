@@ -1,0 +1,34 @@
+.FilterByYear {
+  background-color: coral;
+  width: 80vw;
+  height: 10vh;
+  margin-top: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.txt {
+  font-size: xxx-large;
+  font-family: monospace;
+  font-weight: 700;
+  color: cornsilk;
+}
+
+#FilterByYear {
+  border-radius: 5px;
+  font-size: xx-large;
+  font-family: monospace;
+  padding: 10px 10px;
+}
+/*# sourceMappingURL=FilterByYear.css.map */

@@ -1,0 +1,13 @@
+.styleDate {
+    width: 100px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    border: 2px solid Blue;
+    /* border-radius : 10px; */
+    font-size: x-large;
+    margin: 8px 0;
+  };
